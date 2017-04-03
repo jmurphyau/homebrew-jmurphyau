@@ -5,7 +5,7 @@ class Sbt < Formula
   sha256 "40d03d21a260c5a6a43f8349298f41c9d047f97972057d9d915afd8945faf979"
 
   devel do
-    url "https://dl.bintray.com/sbt/native-packages/sbt/1.0.0-M4/sbt-0.13.14-RC1.tgz"
+    url "https://dl.bintray.com/sbt/native-packages/sbt/0.13.14-RC1/sbt-0.13.14-RC1.tgz"
     sha256 "978561e0fd94a2e0c40a42d45e23c93fc9467f3860d337e3bfd4d6e040e1f5d3"
     version "0.13.14-RC1"
   end
